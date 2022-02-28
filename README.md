@@ -18,11 +18,11 @@
 >> `python smsbel.py`
 
 ## About Tool:
-**•** The script requires working network connection to work.
+**•** *The script requires working network connection to work.*
 
-**•** Don't put spaces in between phone number (Ex- +98 9** *** ****)
+**•** *Don't put spaces in between phone number (Ex- +98 9** *** ****)*
 
-**•** Make sure you are using the latest version of SMS BeL
+**•** *Make sure you are using the latest version of SMS BeL*
 
 ## Chat with Me:
 💬 [Click here](https://rubika.ir/seyed_xxx) if you have any questions, problems or suggestions.
