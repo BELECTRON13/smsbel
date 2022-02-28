@@ -24,5 +24,5 @@
 
 **•** *Make sure you are using the latest version of SMS BeL*
 
-## Chat with Me:
+## Chat With Me:
 💬 [Click here](https://rubika.ir/seyed_xxx) if you have any questions, problems or suggestions.
