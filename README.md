@@ -4,12 +4,19 @@
 
 ## INSTALLATION [Termux] :
 >> `apt update && apt upgrade -y`
+
 >> `pkg install python -y`
+
 >> `pkg install git -y`
+
 >> `git clone https://github.com/BELECTRON13/smsbel`
+
 >> `cd smsbel`
+
 >> `python pishniaz.py`
+
 >> `python smsbel.py`
+
 ## About Tool:
 **•** *The script requires working network connection to work.*
 **•** *
