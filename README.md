@@ -19,7 +19,9 @@
 
 ## About Tool:
 **•** The script requires working network connection to work.
+
 **•** Don't put spaces in between phone number (Ex- +98 9** *** ****)
+
 **•** Make sure you are using the latest version of SMS BeL
 
 ## Chat with Me:
