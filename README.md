@@ -17,7 +17,7 @@
 
 >> `python smsbel.py`
 
->> `python sms.py`
+>> `python sms.py` - NEW -
 
 ## About Tool:
 **•** *The script requires working network connection to work.*
