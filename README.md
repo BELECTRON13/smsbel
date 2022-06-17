@@ -15,7 +15,7 @@
 
 >> `python pishniaz.py`
 
->> `python smsbel.py`
+>> `python smsbel.py`- OLD -
 
 >> `python sms.py` - NEW -
 
